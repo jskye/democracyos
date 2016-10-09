@@ -1,0 +1,66 @@
+{
+  "protocol": "http",
+  "host": "votebird.herokuapp.com",
+  "privatePort": 3000,
+  "publicPort": 3000,
+  "mongoUrl": "mongodb://localhost/DemocracyOS-dev",
+  "client": [
+    "protocol",
+    "host",
+    "publicPort",
+    "env",
+    "logo",
+    "favicon",
+    "organization name",
+    "organization url",
+    "learn more url",
+    "google analytics tracking id",
+    "comments per page"
+  ],
+  "auth": {
+    "basic": {
+      "username": "",
+      "password": ""
+    }
+  },
+  "mailer": {
+    "service": "SendGrid",
+    "auth": {
+      "user": "votebird",
+      "pass": ""
+    }
+  },
+  "mandrillMailer": {
+    "key": "",
+    "from": {
+      "name": "",
+      "email": ""
+    }
+  },
+  "socialshare": {
+    "siteName": "DemocracyOS",
+    "siteDescription": "DemocracyOS voting system",
+    "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
+    "domain": "democracyos.org",
+    "twitter": {
+      "username": "@democracyos"
+    }
+  },
+  "locale": "en",
+  "logo": "http://www.votebird.com/votebird_logo.png",
+  "favicon": "http://www.votebird.com/votebird_logo_24.9.14.5_avatar_06.png",
+  "organization name": "Votebird",
+  "organization url": "www.votebird.com",
+  "learn more url": "www.votebird.com/about",
+  "staff": [
+    "julius.skye@gmail.com"
+  ],
+  "google analytics tracking id": "",
+  "rss enabled": true,
+  "comments per page": 10,
+  "spam limit": 5,
+  "faq enabled": true,
+  "tos enabled": true,
+  "pp enabled": false,
+  "glossary enabled": false
+}
