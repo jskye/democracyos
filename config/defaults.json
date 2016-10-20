@@ -47,7 +47,8 @@
         "user": "",
         "pass": ""
       }
-    }
+    },
+    "nodemailer": {}
   },
   "client": [
     "protocol",
