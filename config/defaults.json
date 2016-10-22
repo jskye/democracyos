@@ -113,7 +113,7 @@
   "headerFontColor": "",
   "headerContrast": false,
   "googleAPIKey": "",
-  "visibility": "visible",
+  "visibility": "hidden",
   "usersWhitelist": false,
   "multiForum": false,
   "defaultForum": "",
