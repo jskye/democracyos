@@ -93,7 +93,7 @@
       "username": "@democracyos"
     }
   },
-  "logo": "http://votebird.com/img/votebird_logo_white_big.png",
+  "logo": "/boot/votebird_logo_white_big.png",
   "logoMobile": "/boot/logo-mobile.png",
   "favicon": "http://votebird.com/img/votebird_logo_24.9.14.5_avatar_06.png",
   "organizationName": "Votebird",
