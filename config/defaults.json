@@ -93,9 +93,9 @@
       "username": "@democracyos"
     }
   },
-  "logo": "http://votebird.com/img/votebird_logo_white.png",
+  "logo": "http://votebird.com/img/votebird_logo_white_big.png",
   "logoMobile": "/boot/logo-mobile.png",
-  "favicon": "http://votebird.com/img/votebird_logo_24.9.14.5_avatar_06_small.png",
+  "favicon": "http://votebird.com/img/votebird_logo_24.9.14.5_avatar_06.png",
   "organizationName": "Votebird",
   "organizationEmail": "contact@votebird.com",
   "organizationUrl": "www.votebird.com",
@@ -109,7 +109,7 @@
   "privacyPolicy": false,
   "glossary": false,
   "homeLink": "/",
-  "headerBackgroundColor": "",
+  "headerBackgroundColor": "#34a6de",
   "headerFontColor": "",
   "headerContrast": false,
   "googleAPIKey": "",
